@@ -25,3 +25,24 @@
 4. Next
 5. Vue.JS
 6. Svelte
+
+- [x] Desenvolver tela de Login
+- [x] Desenvolver tela de cadastro
+- [x] Desenvolver tela Dash
+
+```javascript
+functiom soma(a,b){
+  return a + b;
+}
+´´´
+
+### Variáveis
+```javascript
+  //BAD
+  let nomeAluno;
+```
+
+```javascript
+//GOOD - Devemos usar kebab case para variáveis
+let nome_aluno;
+```
