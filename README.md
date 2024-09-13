@@ -37,12 +37,14 @@ functiom soma(a,b){
 ´´´
 
 ### Variáveis
-```javascript
-  //BAD
-  let nomeAluno;
 ```
 
 ```javascript
-//GOOD - Devemos usar kebab case para variáveis
-let nome_aluno;
+  //BAD
+  let NomeAluno;
+```
+
+```javascript
+  //GOOD - Devemos usar kebab case para variáveis
+  let nome_aluno;
 ```
